@@ -3,7 +3,7 @@ define({
   "version": "1.0.0",
   "description": "Documentation for the real time to do list app",
   "title": "APIs for To do list",
-  "url": "http://apidoc.realtimetodolist.info",
+  "url": "http://api.realtimetodolist.info",
   "sampleUrl": false,
   "defaultVersion": "0.0.0",
   "apidoc": "0.3.0",
